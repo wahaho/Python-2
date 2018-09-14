@@ -1,6 +1,6 @@
 #coding=utf-8
 print ("哈")#输出内容
-name = "yuxiaowei"
+name = "wahaho"
 age = 30
 
 print (age)

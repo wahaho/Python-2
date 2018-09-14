@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../test-toefl.kmf.com/.idea/KMFTEST.iml" filepath="$PROJECT_DIR$/../test-toefl.kmf.com/.idea/KMFTEST.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../WeChat/.idea/PL.iml" filepath="$PROJECT_DIR$/../WeChat/.idea/PL.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Python-Selenium-UIAutomator/.idea/Python-Selenium-UIAutomator.iml" filepath="$PROJECT_DIR$/../Python-Selenium-UIAutomator/.idea/Python-Selenium-UIAutomator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../toefl.kmf.com/.idea/toefl.kmf.com.iml" filepath="$PROJECT_DIR$/../toefl.kmf.com/.idea/toefl.kmf.com.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Python3/.idea/untitled.iml" filepath="$PROJECT_DIR$/../Python3/.idea/untitled.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Python2/.idea/untitled1.iml" filepath="$PROJECT_DIR$/../Python2/.idea/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python-2.iml" filepath="$PROJECT_DIR$/.idea/Python-2.iml" />
     </modules>
   </component>
 </project>
